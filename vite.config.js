@@ -6,7 +6,7 @@ import nodePolyfills from 'rollup-plugin-polyfill-node'
  * @type { import('vite').UserConfig }
  */
 export default {
-  base: '/tonbuilders-minter/',
+  // base: '/tonbuilders-minter/',
   optimizeDeps: {
     esbuildOptions: {
       // Node.js global to browser globalThis
